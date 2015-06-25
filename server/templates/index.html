@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>Events</title>
+ <link rel="stylesheet" href="http://bootswatch.com/lumen/bootstrap.min.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Events</h1>
+    <h4><a href="http://github.com/mdamien/events">github.com/mdamien/events</a></h4>
+    <hr/>
+    {% for event in events %}
+        <div class='well well-sm'>
+        <dl class='dl-horizontal'>
+            {% for key,value in event.items() %}
+                <dt>{{ key }}</dt>
+                <dd>{{ value }}</dd>
+            {% endfor %}
+        </dl>
+        </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
