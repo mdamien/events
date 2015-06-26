@@ -12,6 +12,11 @@
     <hr/>
     {% for event in events %}
         <div class='well well-sm'>
+        <span class="badge pull-right">{{event.source}}</span>
+        <h4><a href="{{event.url}}">{{event.title}}{{event.name}}</a></h4>
+        {% if event.img %}
+            <img class="pull-right img-thumbnail" src="{{event.img}}" alt="event image"/>
+        {% endif %}
         <dl class='dl-horizontal'>
             {% for key,value in event.items() %}
                 <dt>{{ key }}</dt>

@@ -7,22 +7,29 @@ app = Flask(__name__)
 def get_events():
     sources = [
         '10days/data/pages.json',
-        'cs/cs.json',
+        'couchsurfing/cs.json',
         'eventbrite/data/pages.json',
-        'meetups/data/events.json'
+        'meetups/data/events.json',
+        'billetreduc/data/pages.json',
+        'quefaire.paris.fr/data/pages.json',
     ]
 
     ALL = []
+    L_ALL = 0
     for source in sources:
         source_dir = source.split('/',2)[0]
         with open('../'+source) as f:
             data = json.load(f)
             for x in data:
                 x['source'] = source_dir 
-            ALL += data
+            print('len(',source_dir,'):',len(data))
+            random.shuffle(data)
+            ALL += data[:30]
+            L_ALL += len(data)
 
+    print('len(all):',L_ALL)
     random.shuffle(ALL)
-    return ALL[:100]
+    return ALL
 
 @app.route('/')
 def index():
