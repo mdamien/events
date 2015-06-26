@@ -6,7 +6,7 @@ URL = "http://www.tendaysinparis.com/events/list/?action=tribe_list&tribe_paged=
 
 ALL = []
 
-i = 1
+i = 0
 while True:
     i += 1
     html = urldb.get(URL.format(page=i))
