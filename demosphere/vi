@@ -1,0 +1,335 @@
+http://paris.demosphere.eu/rv/38894
+GET http://paris.demosphere.eu/rv/38894
+got cached GET
+<!DOCTYPE html>
+<html class="h" lang="fr" xml:lang="fr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>27 juin: Tribunal d'opinion « Violations des droits des enfants roms... L’État mis en accusation » / Saint-Denis</title>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="unavailable_after: 29-Jun-2015 09:00:00 CEST" name="robots"/>
+<meta content="samedi,Saint-Denis" name="keywords"/>
+<link href="http://paris.demosphere.eu/files/images/favicon.cache-11d15.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://paris.demosphere.eu/rv/38894" rel="canonical"/> <style type="text/css">
+<!--/*--><![CDATA[/*><!--*/
+#htmlView #rightObject0{top:248px;}#htmlView #rightObject1{top:839px;}#textPart0{min-height:1017px;height:auto !important;height:1017px;}
+
+/*]]>*/-->
+</style>
+<link href="http://paris.demosphere.eu/files/css/compressed/4e4865a1ca7b890cf2f8cfdf08e04b90.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">base_url="http:\/\/paris.demosphere.eu";
+demosphere_config={"std_base_url":"http:\/\/paris.demosphere.eu","locale":"fr_FR.utf8"};
+</script>
+<script type="text/javascript">
+
+
+(function()
+{
+window.dlib_comments = window.comments || {};
+
+window.onload=function()
+{
+
+
+
+
+var buttons=document.getElementsByTagName('button');
+var isAdmin;
+var commentNb=0;
+for(var i=0;i<buttons.length;i++)
+{
+var b=buttons[i];
+if(b.className.indexOf('comment-add')!==-1)
+{
+
+b.onmousedown=setup;
+}
+if(b.className.indexOf('comment-edit')!==-1)
+{
+var comment=b.parentNode.parentNode;
+if(typeof isAdmin==='undefined')
+{
+isAdmin=comment.parentNode.parentNode.className.match(/\badmin\b/)!==null;
+}
+
+
+
+
+var hasCookie=document.cookie.match(new RegExp(comment.id+'=1'));
+if(isAdmin || (hasCookie && commentNb===0))
+{
+
+b.parentNode.onmousedown=setup;
+if(!isAdmin){comment.className+=" can-edit";}
+}
+commentNb++;
+}
+}
+var c=document.getElementById('comments-settings');
+if(c){c.onchange=setup;}
+
+};
+
+
+function setup(e)
+{
+if(setup.ok){return;}
+setup.ok=true;
+if(typeof $==='undefined'){add_script('lib/jquery.js',false,function(){add_script('dlib/comments/comments.js?cs=8714273e0f8e778d2720d5817945decd');});}
+else{add_script('dlib/comments/comments.js?cs=8714273e0f8e778d2720d5817945decd');}
+
+dlib_comments.action=e===true ? true : e.target;
+}
+
+window.dlib_comments.setup=setup;
+}());</script>
+<script type="text/javascript">demosphere_tiny_mce_js_path="lib/tinymce/js/tinymce/tinymce.min.js?c=634b0";function comment_form_hook(){add_script("demosphere/js/demosphere-comments.cache-8d000.js");}</script>
+<script type="text/javascript">function add_script(u,as,cb)
+{
+var s=document.createElement("script");
+s.type="text/javascript";
+if(u.indexOf("http")!==0){u=base_url+"/"+u;}
+if(as){s.async="async";}
+s.src=u;
+if(cb)
+{
+if(s.readyState)
+{
+s.onreadystatechange=function()
+{
+if(s.readyState=="loaded" || s.readyState=="complete"){s.onreadystatechange=null;cb();}
+};
+}else{s.onload=function(){cb();};}
+}
+document.getElementsByTagName("head")[0].appendChild(s);
+}
+</script>
+</head>
+<body class="role-none notFullWidth unPaddedContents hasStdHtmlContent event-page not-mobile ">
+<div id="wrap">
+<!--[if IE ]>
+<script type="text/javascript">
+document.body.className+=" IE IE"+navigator.appVersion.match(/MSIE ([0-9]+)/i)[1];
+</script>
+<![endif]--> <div id="header">
+<div id="siteName">
+<a href="http://paris.demosphere.eu">
+<div id="page-logo"></div>
+<h1><span id="big-site-name">démosphère</span><span id="slogan">agenda alternatif<br/>de la région parisienne</span></h1>
+</a>
+</div>
+<div id="right">
+<a class="hprob" href="/hprobzarc"></a> <div id="rightInfo">
+<ul id="primary-links">
+<li><a href="/qui-sommes-nous">Qui sommes nous ?</a></li>
+<li><a href="/publish">Proposer un rendez-vous</a></li>
+</ul>
+<ul id="secondary-links"></ul> </div>
+</div>
+</div>
+<div id="columnWrapper">
+<div id="main"><div id="crieur-hack"></div>
+<div id="content-and-tabs">
+<!-- begin content -->
+<div id="content"><div class="stdHtmlContent published status-published " id="event" itemscope="itemscope" itemtype="http://schema.org/Event">
+<meta content="http://paris.demosphere.eu/rv/38894" itemprop="url"/>
+<div class="statusBar"></div>
+<div class="eventHead ">
+<div id="miscEventInfo">
+<div id="miscEventInfoLeft">
+<span class="no-topics" id="topics">
+<span class="topicsLabel">
+					thème : 
+				</span>
+<span class="topicsList">
+</span>
+</span>
+</div>
+<div class="nb-boxes-5" id="actionBoxWrapper"><div id="actionBox"><a class="actionBoxAction" href="#comments" id="commentLink" onclick="document.getElementById('comments').style.display='block';dlib_comments.setup(true);" rel="nofollow" title="ajoutez une information complémentaire, ou un commentaire"><span class="actionBoxIcon"></span><span class="actionBoxLinkText">Réagir (0)</span></a><a class="actionBoxAction " href="http://paris.demosphere.eu/rv/38894/carpool" id="carpoolLink" rel="nofollow" title="covoiturages pour ce rendez-vous"><span class="actionBoxIcon"></span><span class="actionBoxLinkText">Covoiturage							</span></a><a class="actionBoxAction" href="http://paris.demosphere.eu/rv/38894/send-by-email" id="send-by-email-link" rel="nofollow" title="envoyer ce rdv à quelqu'un par mail"><span class="actionBoxIcon"></span><span class="actionBoxLinkText">Envoyer</span></a><a class="actionBoxAction" href="http://paris.demosphere.eu/rv/38894/ical.ics" id="iCalLink" rel="nofollow" title="importer ce rdv dans votre agenda"><span class="actionBoxIcon"></span><span class="actionBoxLinkText">iCal</span></a><a class="actionBoxAction" href="#" id="shareLink" onclick="return false;" onmousedown="return share_link_popup(event,this);" rel="nofollow" title="partager ce rdv sur les réseaux sociaux"><span class="actionBoxIcon"></span><span class="actionBoxLinkText">Partager</span></a><script type="text/javascript">
+					function share_link_popup(event,obj)
+					{
+						var link=document.getElementById("facebook-link");
+						if(link!==null){link.innerHTML=link.getAttribute("data-inner");}
+						link=document.getElementById("twitter-link");
+						if(link!==null){link.innerHTML=link.getAttribute("data-inner");}
+						var popup=document.getElementById("shareLinkPopup");
+						if(popup.style.display=="block"){popup.style.display="none";}
+						else							{popup.style.display="block";}
+						return false;
+					}
+					</script><div id="shareLinkPopup" style="display:none"><a data-inner='&lt;img width="53" height="20" src="http://paris.demosphere.eu/demosphere/css/images/twitter.png" alt="twitter"/&gt;' href="http://twitter.com/share?url=http%3A%2F%2Fparis.demosphere.eu%2Frv%2F38894&amp;text=sam.+27+juin+09h-+Tribunal+d%27opinion+%C2%AB+Violations+des+droits+des+enfants+roms...+L%E2%80%99%C3%89tat+mis+en+accusation+%C2%BB" id="twitter-link" title="partager sur Twitter"></a>						 
+						<a data-inner='&lt;img width="72" height="20" src="http://paris.demosphere.eu/demosphere/css/images/facebook.png" alt="facebook"/&gt;' href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fparis.demosphere.eu%2Frv%2F38894&amp;t=sam.+27+juin+09h%3A+Tribunal+d%27opinion+%C2%AB+Violations+des+droits+des+enfants+roms...+L%E2%80%99%C3%89tat+mis+en+accusation+%C2%BB" id="facebook-link" title="partager sur Facebook"></a>						 
+						<p id="shareLinkPopupPrivacy"><a href="http://code.demosphere.eu/privacy" target="_blank">
+								respect de votre vie privée</a></p></div><!-- end shareLinkPopup --></div><!-- end actionBox --> </div><!-- end actionBoxWrapper -->
+</div><!-- end miscEventInfo -->
+</div><!-- end eventHead -->
+<div id="eventMain">
+<meta content="2015-06-27T09:00" itemprop="startDate"/>
+<div id="dateWrap">
+<h2 id="date">
+<span id="dateContents"><span class="date" data-val="27/06/2015">samedi 27 juin 2015</span><span class="time" data-val="09:00"> à 9h</span></span>
+</h2>
+</div><!-- end dateWrap -->
+<div class="place hasMapImage" itemprop="location" itemscope="itemscope" itemtype="http://schema.org/Place">
+<meta content="Université Paris 8 - Saint Denis" itemprop="name"/>
+<span class="placeTopLeft"><span></span></span>
+<div class="place-inner">
+<meta content="http://paris.demosphere.eu/lieu/784" itemprop="url"/>
+<h3><a class="placeLabel" href="http://paris.demosphere.eu/lieu/784">Lieu :</a>
+<a class="city" href="http://paris.demosphere.eu/?selectCityId=94">Saint-Denis</a>
+</h3>
+<p class="address-text" itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress"><meta content="Saint-Denis" itemprop="addressLocality"/><a href="http://paris.demosphere.eu/lieu/784" itemprop="streetAddress" rel="nofollow">Université Paris 8 - Saint Denis<br/>
+Amphi D001<br/>
+2, rue de la Liberté<br/>
+Saint-Denis (93)<br/>
+Métro Saint-Denis-Université</a></p>
+<p class="mapimage" itemprop="geo" itemscope="itemscope" itemtype="http://schema.org/GeoCoordinates">
+<meta content="48.946093" itemprop="latitude"/>
+<meta content="2.3632250000001" itemprop="longitude"/>
+<a class="mapimage-link" href="https://www.google.fr/maps/place/48.946093,2.3632250000001/@48.946093,2.3632250000001,15z">
+<img alt="carte" height="145" src="http://paris.demosphere.eu/files/maps/dmap_48.946093_2.3632250000001_15.png" width="320"/>
+</a>
+</p>
+<p class="place-links">
+<a class="place-link" href="http://paris.demosphere.eu/lieu/784" rel="nofollow">
+					181 rdv pour ce lieu</a>
+</p>
+</div></div><!-- end place -->
+<meta content="Tribunal d'opinion « Violations des droits des enfants roms... L’État mis en accusation »" itemprop="name"/>
+<div id="htmlView" itemprop="description">
+<div class="textPart lastPart" id="textPart0"><h3 class="openingBlock">
+  Tribunal d'opinion : L'État cité à comparaître pour
+</h3>
+<h2>
+  violation des droits des enfants Roms
+</h2>
+<p class="demosphere-source-link-top"><a href="http://paris.demosphere.eu/rv/38894">http://paris.demosphere.eu/rv/38894</a></p><p>
+  Inscription gratuite mais obligatoire pour assister à l'audience publique : <a class="" href="http://bit.ly/1OnyVwY">http://bit.ly/1OnyVwY</a>
+</p>
+<p>
+  Nos organisations - syndicats, associations - sont, à divers titres, en lien avec les familles et enfants de différentes nationalités vivant en bidonvilles ou squats et en situation de grande précarité en France. Les discours politiques et médiatiques dominants enferment ces personnes dans une identité « rom » assignée et stigmatisée.
+</p>
+<p>
+  Nous sommes témoins d'incessants dénis de droits et de discriminations envers ces enfants et familles.
+</p>
+<p>
+  Nous nous devons de dénoncer la maltraitance institutionnelle et sociale infligée tant aux adultes qu'aux enfants, mais dont ces derniers subissent plus lourdement les conséquences car elle les prive de l'accès à leurs droits les plus fondamentaux.
+</p>
+<p>
+  Nous pensons donc venu le temps de demander aux représentants de la puissance publique, nationaux comme locaux, de venir répondre devant l'opinion des conséquences de leurs politiques en termes de violation des lois nationales, des textes européens et des conventions ou traités de niveau international ratifiés par la France.
+</p>
+<p>
+  Un tribunal d'opinion permet de mettre en scène le procès des responsables des délits et discriminations que nous voulons dénoncer : ce tribunal tiendra un véritable procès pénal avec un acte de mise en accusation, un président, des juges, la parole donnée à la défense et à l'accusation, des auditions de victimes, de témoins et d'experts.
+</p>
+<h4>
+  Nous souhaitons contribuer à :
+</h4>
+<ul><li>Provoquer une réaction d'indignation, a minima une prise de conscience, et faire cesser l'indifférence concernant la situation des enfants Roms en France.
+  </li>
+<li>Faire connaître les conséquences désastreuses des refus d'éducation et de protection des enfants, des expulsions de lieux de vie sans solution alternative.
+  </li>
+<li>Mettre un terme à l'apparition constante de nouvelles formes de stigmatisation même lorsque des avancées juridiques sont obtenues.
+  </li>
+<li>Reconnaître publiquement aux intéressé(e)s (enfants et leurs parents) le statut de victimes, alors qu'ils et elles sont toujours perçu(e)s comme des délinquants ou des fauteurs de troubles. Les conforter dans l'idée que c'est leur dignité humaine qui est piétinée et la restaurer en initiant une démarche de reconnaissance des préjudices qu'ils et elles subissent.
+  </li>
+<li>Établir la responsabilité directe des pouvoirs publics français dans le sort fait à ces enfants, en mettant en évidence les défaillances des services éducatifs, sociaux et judiciaires quant à la protection à laquelle ils ont droit.
+  </li>
+</ul><p>
+  Ce procès symbolique permettra de rappeler que les pouvoirs publics, à tous les niveaux, ont l'obligation d'appliquer le droit français, européen et international.
+</p>
+<p>
+  Il sera surtout l'occasion, grâce à des témoignages d'enfants, de parents, des citoyens et citoyennes qui les accompagnent, d'experts ou de professionnels qui travaillent auprès d'eux, d'alerter l'opinion publique sur les conséquences humaines inacceptables des politiques actuelles envers ces populations. Nous espérons qu'il contribuera à promouvoir la mise en œuvre de solutions adaptées à leurs besoins et à leurs choix.
+</p>
+<p>
+<strong>Inscription gratuite mais obligatoire</strong> : <a class="" href="http://bit.ly/1OnyVwY">http://bit.ly/1OnyVwY</a><br/>
+  Pour tout contact et information : <a class="" href="mailto:---" onclick="this.href='mailto:tribunaldopinion.27juinhelQ1ydQc5jje5xBacmgmail.com'.replace('helQ1ydQc5jje5xBacm','@');return true;"><span class="xsd">t</span>ribun<span style="display: none;">ex</span>aldopi<span class="xsd">n</span>ion.2<span style="display: none;">ex</span>7juin@<span class="xsd">g</span>mail.<span style="display: none;">ex</span>com</a>
+</p>
+<p>
+  Samedi 27 juin 2015 de 9h00 à 17h30
+</p>
+<p>
+  Université Paris 8 | Saint-Denis<br/>
+  Bâtiment D, amphi D001<br/><a class="" href="http://www.openstreetmap.org/#map=19/48.94598/2.36309">Entrée de l'Université : rue Guynemer</a><br/>
+  [face au métro]
+</p>
+<h3>
+<em>A l'initiative de</em>
+</h3>
+<ul><li>ASEFRR
+  </li>
+<li>Collectif pour le droit des enfants roms à l'éducation (CDERE)
+  </li>
+<li>CNDH Romeurope
+  </li>
+<li>DEI-France (Défense des Enfants International)
+  </li>
+<li>Gisti
+  </li>
+<li>Hors la rue
+  </li>
+<li>Intermèdes Robinson
+  </li>
+<li>RESF
+  </li>
+<li>SNUIPP-FSU
+  </li>
+<li>SNPES-PJJ - FSU
+  </li>
+<li>SUD éducation
+  </li>
+<li>Syndicat de la Magistrature
+  </li>
+</ul><h4>
+<em><br/>
+  Avec le soutien de</em>
+</h4>
+<ul><li>Secours Catholique
+  </li>
+<li>Fédération Syndicale Unitaire
+  </li>
+<li>European Roma Rights Centre
+  </li>
+<li>Ligue des Droits de l'Homme
+  </li>
+<li>ASET 93
+  </li>
+<li>Les enfants du Canal
+  </li>
+<li>Fondation d'Arfeuille
+  </li>
+<li>Union juive française pour la paix
+  </li>
+<li>FERC-CGT
+  </li>
+<li>MRAP
+  </li>
+</ul><p><img alt="" class="floatRight" height="587" id="rightObject0" src="/files/import-images/0840ab3a4fe42b6c61e6c9cc48b2fcd5.png" width="259"/></p>
+<p class="floatRight composite-doc-container" id="rightObject1">
+<a class="composite-doc" href="/files/docs/f-ba09b8e887-empty-fname.pdf">document au format PDF:<br/><img alt="" class="pdfPage" height="129" src="/files/import-images/1746ea04b05dbae8d5dce38512b02cef.png" width="177"/><img alt="" class="pdfPage" height="129" src="/files/import-images/75006f882e4af45a3af31e5f0fa453e9.png" width="177"/></a>
+</p>
+<p class="closingBlock demosphere-sources"><span class="demosphere-sources-separator"></span><span class="demosphere-source-link">Lien : <a href="http://paris.demosphere.eu/rv/38894">http://paris.demosphere.eu/rv/38894</a><br/></span>
+  Source : liste RESF91, reçu le 7 mai 12h<br/>
+  Source : <a class="" href="http://www.questionsdeclasses.org/?VIOLATIONS-DES-DROITS-DES-ENFANTS">http://www.questionsdeclasses.org/?VIOLATIONS...</a><br/>
+  Source : liste de diffusion TERRA, reçu le 5 juin 15h
+</p></div><div id="text-image-zoom" style="display:none">agrandir</div><div id="text-image-link" style="display:none">lien</div><div id="text-image-zoom-title" style="display:none">cliquer pour agrandir l'image</div><div id="text-image-zoom-popup-close" style="display:none">cliquer pour fermer l'image</div> </div><!-- end htmlView -->
+</div><!-- end eventMain -->
+</div><!-- end event -->
+<div class="comments-empty type-Event typeid-38894 settings-enabled " data-type="Event" data-typeid="38894" id="comments">
+<div id="comments-top">
+<div id="comments-actions">
+<button class="comment-add" id="comment-add"><span></span>Réagir</button>
+</div>
+<div id="comments-top-text"><h2>Réagir</h2><p class="commentsSubtitle">informations complémentaires et commentaires ajoutés par les lecteurs du site</p></div>
+<div id="comments-top-text-empty"><h2>Réagir</h2><p class="commentsSubtitle">Soyez le premier à réagir</p></div>
+</div>
+<div id="comments-list">
+</div>
+</div></div>
+<!-- end content -->
+</div>
+</div><!-- end main -->
+</div><!-- end columnWrapper -->
+</div><!-- end wrap -->
+</body>
+</html>
+

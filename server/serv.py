@@ -12,6 +12,7 @@ def get_events():
         'meetups/data/events.json',
         'billetreduc/data/pages.json',
         'quefaire.paris.fr/data/pages.json',
+        'demosphere/data/details.json',
     ]
 
     ALL = []

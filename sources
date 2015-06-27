@@ -5,18 +5,19 @@ couchsurfing => 50 high quality  [DONE]
 tendaysinparis => ~100 low quality  [DONE]
 eventbrite => ~1500 med quality     [DONE]
 facebook => est. ~10k random quality 
-agenda du libre => 10 high quality 
+agenda du libre => 100 high quality 
 billetreduc => 2k med quality [DONE]
-quefaire.paris.fr => 4k random quality [DONE]
+quefaire.paris.fr => 4k low quality [DONE]
+paris.demosphere.eu => 170 med quality [DONE]
 
 
 notes
 ----------
 do pick the hand-curated articles ? "cinéma en plein air cet été", "this weekend",..
 
+
 global
 ----------
-
 web scrapping .ics => LOL ?
 
 
@@ -29,9 +30,8 @@ len( eventbrite ): 1487
 len( meetups ): 656
 len( billetreduc ): 2301
 len( quefaire.paris.fr ): 4680
-len(all): 9367
-
-
+len( demosphere ): 170
+len(all): 9537
 
 other things
 ------
@@ -39,7 +39,7 @@ other things
 cinémas, swimming pools, bars, clubs, learning, creating, singing,...
 
 
-essential data
+essential data => ICAL
 -------
 TITLE
 LOCATION
@@ -56,3 +56,9 @@ UI
 ------
 
 'events of the day' page based on quality signals
+
+ICAL output
+API: "events near me"
+giga map
+
+auto-scraping
